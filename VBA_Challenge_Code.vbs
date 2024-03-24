@@ -31,7 +31,10 @@ For Each ws In Worksheets
     ws.Range("O3").Value = "Greatest % Decrease"
     ws.Range("O4").Value = "Greatest Total Volume"
     ws.Range("O2:O4").EntireColumn.AutoFit
-    
+    ws.Range("I1:I" & LastRow).EntireColumn.AutoFit
+    ws.Range("J1:I" & LastRow).EntireColumn.AutoFit
+    ws.Range("K1:I" & LastRow).EntireColumn.AutoFit
+    ws.Range("L1:I" & LastRow).EntireColumn.AutoFit
     
     For i = 2 To LastRow
     
