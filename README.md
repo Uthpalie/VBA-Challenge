@@ -6,5 +6,5 @@ This assignment work used the following references.
 2. For Column fit code
    Reference: https://www.mrexcel.com/board/threads/autofit-cell-via-vba.810077/
 
-##Notes
+## Notes
 After completing the assignment, a section of the code was optimized with the help of a tutor, for learning. The section is provided at the bottom of the code.
